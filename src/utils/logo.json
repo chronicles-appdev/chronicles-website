@@ -1,0 +1,87 @@
+{
+  "schoolClients": [
+    {
+      "id": 1,
+      "image": "/lagosStateLogo.png"
+    },
+    {
+      "id": 2,
+      "image": "/atlantichall.png"
+    },
+    {
+      "id": 3,
+      "image": "/vivianFowler.png"
+    },
+    {
+      "id": 4,
+      "image": "/icoba.png"
+    },
+    {
+      "id": 5,
+      "image": "/littleEinsten.png"
+    },
+    {
+      "id": 6,
+      "image": "/ckis.png"
+    },
+    {
+      "id": 7,
+      "image": "/crc.png"
+    },
+    {
+      "id": 8,
+      "image": "/britarch.png"
+    },
+    {
+      "id": 9,
+      "image": "/sailors.png"
+    },
+    {
+      "id": 10,
+      "image": "/chalcedony.png"
+    },
+    {
+      "id": 11,
+      "image": "/divineroyal.png"
+    }
+  ],
+
+  "corporateClients": [
+    {
+      "id": 1,
+      "image": "/learnAfrica.png"
+    },
+    {
+      "id": 2,
+      "image": "/stanbic.png"
+    },
+    {
+      "id": 3,
+      "image": "/unified.png"
+    },
+    {
+      "id": 4,
+      "image": "/ogs.png"
+    },
+    {
+      "id": 5,
+      "image": "/rand.png"
+    },
+    {
+      "id": 6,
+      "image": "/afrinvest.png"
+    },
+    {
+      "id": 7,
+      "image": "/skynet.png"
+    },
+    {
+      "id": 8,
+      "image": "/leadway.png"
+    },
+    {
+      "id": 9,
+      "image": "/access.png"
+    }
+  ]
+}
